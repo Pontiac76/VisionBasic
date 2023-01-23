@@ -31,8 +31,8 @@ Once you pick 1 or 2, Vice should kick up and start running.
 
 Once you're within VB, execute the following:
 
-load "$",9
+DEVICE 9
 
-Then, ignore the error.  This just changes the active drive as far as VB is concerned.  Execute DIR and you should see either an empty disk, or, your already prepared D81 contents.
+Execute DIR and you should see either an empty disk, or, your already prepared disk contents.
 
 ![x64sc_03qpkbjil8](https://user-images.githubusercontent.com/4532020/210963893-1b508d0c-680b-4003-b4de-688180a49233.png)
